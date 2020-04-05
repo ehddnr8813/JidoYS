@@ -40,7 +40,7 @@ JYS는 현재위치에 콘텐츠를 올리는 방식으로 그 위치 주변의 
 
 <center><b>**여기서 부터 핵심**</b></center>
 
-![IMG_77CD29C1AFFF-1](지도영향력성공적.assets/IMG_77CD29C1AFFF-1.jpeg)
+![IMG_77CD29C1AFFF-1](README.assets/IMG_77CD29C1AFFF-1.jpeg)
 
 예를 들면 대한민국 강남구에서 올린 콘텐츠가 A와 B가 있다고 하자 A는 like의 수가 123개이고 B는 like 수가 110개이다.
 그렇다면 map에서 강남구 지역의 콘텐츠는 A하나만 보이게 된다.
@@ -97,12 +97,12 @@ publishing 까지 염두를 하고 있다면 Jenkins를 이용하도록 한다.
 
 * 사용자가 늘어남에 따라 지도가 지저분 해질 수 있다. 이 같은 경우는 아래 알고리즘을 이용하면 해결될 듯하다.
 
-  ![image-20200404013850474](지도영향력성공적.assets/image-20200404013850474.png)
+  ![image-20200404013850474](README.assets/image-20200404013850474.png)
 
 * 지도에서 각 시군구를 자를예정이라면 구글맵, 네이버맵등 지원해주는 API가 있는지 확인해봐야한다.
   없을 경우 맵을 직접 제작을 해야하는데...
 
-  ![image-20200404223939884](지도영향력성공적.assets/image-20200404223939884.png)
+  ![image-20200404223939884](README.assets/image-20200404223939884.png)
 
   Google Map 자체에서는 시, 군, 구 , 동 입력했을 시 표시가 되는데 [여기](https://stackoverflow.com/questions/9706484/add-search-area-outline-onto-google-maps-result)에서는 안될거라고 말하는데 한번 찾아봐야함.
 
